@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Amal K Ayyan
-I am an Awesome Electronics Geek
+I am an Awesome Electronics God
 
 
 <!--
