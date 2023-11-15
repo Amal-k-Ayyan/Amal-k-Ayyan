@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Amal K Ayyan
-I am an Electronics engineer who loves RTL design, embedded systems and digital electronics.
+Myself Amal K Ayyan
+I'm an Electronics engineer who loves RTL design, embedded systems and digital electronics.
 
 
 <!--
